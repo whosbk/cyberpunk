@@ -8,12 +8,11 @@ Realizado:
 * Los dos estan sin completar, y faltan mas archivos .html por subir
 ## 16/05/2023
 Realizado:
-* 
-* 
+* Archivos index y historia actualizados
 
 ## 18/05/2023
 Realizado:
-* 
+* style.css creado
 * 
 
 
