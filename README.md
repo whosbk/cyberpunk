@@ -19,8 +19,7 @@ Realizado:
 
 ## 19/05/2023
 Realizado:
-* 
-* 
+* Todos los html y style.css actualizado
 
 
 
