@@ -28,3 +28,4 @@ Realizado:
 ## 23/05/2023
 Realizado:
 * Cambio de temas completado
+* Correcion de todos los pequeños errores
