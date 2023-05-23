@@ -3,8 +3,27 @@
 <head>
    <link rel="https://i.pinimg.com/originals/b7/f9/cb/b7f9cb852170be129435ff6f6da6941f.jpg" type="image" href="images">
   <title>Cyberpunk Edgerunners</title>
-    <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css" id="estiloss" />
+
+        <script>
+ function cambiocss() 
+ {
+           
+      if (document.getElementById('estiloss').getAttribute('href') == 'style2.css') 
+      {
+         document.getElementById('estiloss').setAttribute('href', 'style.css');
+      } else
+      {
+         document.getElementById('estiloss').setAttribute('href','style2.css');
+      }
+    }
+  
+
+    </script>
  </head>
+
+
+ 
 <body>
 
 <!-- Header -->
@@ -18,11 +37,11 @@
 	<section>
 		<div class="contenedor">
 	<ul>
-    <li><a href="index.html">Pagina Principal</a></li>
-    <li><a href="historia.html">Historia</a></li>
-    <li><a href="personajes.html">Personajes</a></li>
-    <li><a href="videojuego.html">Videojuego</a></li>
-    <li style="float:right"><a class="active" href="#about">:)</a></li>
+    <li><a href="index.html" >Pagina Principal</a></li>
+    <li><a href="historia.html" >Historia</a></li>
+    <li><a href="personajes.html" >Personajes</a></li>
+    <li><a href="videojuego.html" >Videojuego</a></li>
+    <button class="boton" style="float:right" onclick="cambiocss()"> <a>:)</a></button> 
 	</ul>
 			<h2>Informacion sobre el videojuego </h2>
 			<div class="retrato">
