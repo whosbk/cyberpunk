@@ -21,5 +21,10 @@ Realizado:
 Realizado:
 * Todos los html y style.css actualizado
 
+## 22/05/2023
+Realizado:
+* Intento de cambio de temas con java con style.css
 
-
+## 23/05/2023
+Realizado:
+* Cambio de temas completado
